@@ -37,16 +37,6 @@ Users tend to perceive visual information better than text. The progress button 
 
 Progress buttons can be customized in multiple ways. You can choose from different button sizes, default and small, as required in your application.
 
-### Predefined styles
-
-The progress button has the following predefined styles to be used based on the application scenario:
-
-* Primary
-* Success
-* Info
-* Warning
-* Danger
-
 ## Related links
 
 [Learn More about Angular Progress Button](https://www.syncfusion.com/angular-components/angular-progress-button?utm_source=github&utm_medium=listing&utm_campaign=angular-progress-button-github-samples)
@@ -61,7 +51,7 @@ The progress button has the following predefined styles to be used based on the 
 
 [Community Forums](https://www.syncfusion.com/forums/angular-js2?utm_source=github&utm_medium=listing&utm_campaign=angular-progress-button-github-samples)
 
-[Suggest a feature or report a bug](https://www.syncfusion.com/feedback/angular-components?utm_source=github&utm_medium=listing&utm_campaign=angular-progress-button-github-samples)
+[Suggest a feature or report a bug](https://www.syncfusion.com/feedback/angular?utm_source=github&utm_medium=listing&utm_campaign=angular-progress-button-github-samples)
 
 [Online example](https://ej2.syncfusion.com/angular/demos/#/bootstrap5/button/progress-button?utm_source=github&utm_medium=listing&utm_campaign=angular-progress-button-github-samples)
 
