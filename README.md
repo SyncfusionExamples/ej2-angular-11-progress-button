@@ -29,15 +29,15 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Features and Benefits
 
-## Progress Button Icons
+### Progress Button Icons
 
 Users tend to perceive visual information better than text. The progress button has built-in options to include an icon to the right, left, top, and bottom of a text or provide an icon-only button.
 
-## Custom Progress Button
+### Custom Progress Button
 
 Progress buttons can be customized in multiple ways. You can choose from different button sizes, default and small, as required in your application.
 
-## Predefined styles
+### Predefined styles
 
 The progress button has the following predefined styles to be used based on the application scenario:
 
